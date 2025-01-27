@@ -7,20 +7,19 @@ Creatividad es mi segundo nombre. Soy una persona proactiva y muy trabajadora. A
 - 🖥️ Aficionado del Backend
 - 🎸 Guitarrista en mis ratos libres
 
-## Tecnologías
+<div align="center"><h2>Tecnologías, lenguajes y programas</h2>
+</div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,dart,docker,eclipse,figma,flutter,github,idea,java,jquery,nodejs,npm" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,postman,powershell,pycharm,py,spring,ts,vscode" />
+  </a>
+</p>
 
-<!--
-**Pesp05/Pesp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pesp05&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pesp05&layout=compact)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
